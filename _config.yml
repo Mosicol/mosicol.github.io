@@ -1,11 +1,11 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: <a href="https://objccn.io/products/">我组织的 ObjC 中国与 objc.io 合作发布了一系列 iOS/Swift 相关图书，欢迎访问了解更多</a>
-description: 嗨，我是王巍 (@onevcat)，一名 iOS 开发者。
-creator: <a href="https://onev.cat">@onevcat</a>
+title: Mosicol
+subtitle: 网上得来虽很好，觉之此码要键行
+welcome_message: <a href="https://objccn.io/products/">我的博客园</a>
+description: 嗨，我是Mosicol,专注于软件性能领域的探索，有兴趣和我一起探索吗。
+creator: <a href="https://onev.cat">@Mosicol</a>
 
-url: "https://onevcat.com"
+url: "http://www.mosicol.club"
 
 permalink: /:year/:month/:title/
 
@@ -21,7 +21,7 @@ blog_button:
 
 nav:
     - {title: 简历, description: 我的简历, url: '//onev.cat'}
-    - {title: 工具, description: 我所使用的 app 们, url: '/apps'}
+    - {title: 工具, description: 我所使用的工具, url: '/apps'}
     - {title: 订阅, description: 邮件订阅本站, url: '//objccn.io/subscribe'}
 
 # Pagination
@@ -31,15 +31,15 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: onevcat
+    disqus: Mosicol
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    # weibo: onevcat
+    github: mosicol
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    # mail: onev@onevcat.com
 
 # Google Analytics
 ga:
